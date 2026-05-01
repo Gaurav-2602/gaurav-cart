@@ -69,7 +69,7 @@ npm run build
 **Gaurav Kumar**
 
 * GitHub: https://github.com/Gaurav-2602
-* LinkedIn: (add your link here)
+
 
 ---
 
